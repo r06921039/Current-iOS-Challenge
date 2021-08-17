@@ -5,6 +5,8 @@ The goal of the assignment is to build a simple app that finds fast food places 
 
 ### HomeScreen:
  Once fast food places are fetched, you should show a Home screen which consists of two subscreens: Map and List. Segment control is used to switch between view modes. Last selected mode should be persisted between app launches (map is default).
+ 
+ 
 <img src="https://github.com/r06921039/Current-iOS-Challenge/blob/main/HomeScreen.png" alt="HomeScreen" width="30%" height="30%"/>
 <!-- ![HomeScreen](https://github.com/r06921039/Current-iOS-Challenge/blob/main/HomeScreen.png = 585x1266) -->
 
@@ -12,6 +14,8 @@ The goal of the assignment is to build a simple app that finds fast food places 
 Color icons in places list view based on provided gradient
 colors (in Colors.swift file, colors are in top to bottom order).
 Imagine a static vertical line colored with evenly distributed gradient colors having the same height as the list view screen. Based on icon’s center Y-axis position in the list, it will take a color on the gradient line, which should be dynamically applied during scrolling.
+
+
 <img src="https://github.com/r06921039/Current-iOS-Challenge/blob/main/List.png" alt="List" width="30%" height="30%"/>
 
 ### Detail:
