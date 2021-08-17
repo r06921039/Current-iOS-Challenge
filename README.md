@@ -14,4 +14,4 @@ The goal of the assignment is to build a simple app that finds fast food places 
 <img src="https://github.com/r06921039/Current-iOS-Challenge/blob/main/Detail.png" alt="Detail" width="30%" height="30%"/>
 
 ### Demo:
-<img src="https://github.com/r06921039/Current-iOS-Challenge/blob/main/Demo.gif" alt="Demo" width="30%" height="30%"/>
+<img src="https://github.com/r06921039/Current-iOS-Challenge/blob/main/demo.gif" alt="Demo" width="30%" height="30%"/>
